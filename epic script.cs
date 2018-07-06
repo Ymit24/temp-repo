@@ -1,13 +1,7 @@
 
 public class MyEpicScript 
 {
-	public void LitFunction()
+	void notsocoolcool()
 	{
-		AwesomePrint("ASDF");
-	}
-	
-	void coolcool()
-	{
-		LitFunction();
 	}
 }
