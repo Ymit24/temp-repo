@@ -1,7 +1,7 @@
 
 public class MyEpicScript 
 {
-	void coolcool()
+	void notsocoolcool()
 	{
 	}
 }
